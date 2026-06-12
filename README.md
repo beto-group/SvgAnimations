@@ -1,9 +1,8 @@
-
 <div align="center">
   <a name="readme-top"></a>
   <img src="https://raw.githubusercontent.com/beto-group/beto.assets/main/BETO.logo.animated.svg?raw=true" alt="LOGO" width="160">
   <h1 align="center">SVG ANIMATIONS</h1>
-  <h3 align="center"> Interactive SVG Showcase & CSS Animation Creator </h3>
+  <h3 align="center"> Interactive SVG Showcase and CSS Animation Creator </h3>
 </div>
 
 <div align="center">
@@ -13,14 +12,14 @@
   <a href="https://github.com/sponsors/beto-group"><img src="https://img.shields.io/badge/Sponsor-7A46F1?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="SUPPORT US ON GITHUB"></a>
   <br/>
   <!-- BOTTOM GOLD TAXONOMY -->
-  <img src="https://img.shields.io/badge/TARGET-DATACORE-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiLz48cGF0aCBkPSJNIDMgNXYxNGE5IDMgMCAwIDAgMTggMHYtMTQiLz48cGF0aCBkPSJNIDMgMTJhOSAzIDAgMCAwIDE4IDAiLz48L3N2Zz4=" alt="TARGET">
-  <img src="https://img.shields.io/badge/SECURITY-NONE-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMnMgOCA0LjUgOCAxMmMwIDUuNS00LjUgMTAtOCAxMEzNCAxNy51IDQgMTRDNCA2LjUgMTIgMTEyIDJ6Ii8+PC9zdmc+" alt="SECURITY">
-  <img src="https://img.shields.io/badge/RUNTIME-REACT-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQ5IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY3LjVMMTQuNSAyeiIvPjxwb2x5bGluZSBwb2ludHM9IjE0IDIgMTQgOCAyMCA4Ii8+PGxpbmUgeDE9IjE2IiB4Mj0iOCIgeTE9IjEzIiB5Mj0iMTMiLz48bGluZSB4MT0iMTYiIHgyPSI4IiB5MT0iMTciIHkyPSIxNyIvPjxsaW5lIHgxPSIxMCIgeDI9IjgiIHkxPSI5IiB5Mj0iOSIvPjwvc3ZnPg==" alt="RUNTIME">
+  <img src="https://img.shields.io/badge/TARGET-DATACORE-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiLz48cGF0aCBkPSJNIDMgNXYxNGE5IDMgMCAwIDAgMTggMHYtMTQiLz48cGF0aCBkPSJNIDMgMTJhOSAzIDAgMCAwIDE4IDAiLz48L3N2Zz4=" alt="TARGET">
+  <img src="https://img.shields.io/badge/SECURITY-NONE-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjJzOC00IDgtMTBWNWwtOC0zLTggM3Y3YzAgNiA4IDEwIDggMTB6Ii8+PC9zdmc+" alt="SECURITY">
+  <img src="https://img.shields.io/badge/RUNTIME-REACT-000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQuNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDAgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWNy5MMTQuNSAyeiIvPjxwb2x5bGluZSBwb2ludHM9IjE0IDIgMTQgOCAyMCA4Ii8%2BPGxpbmUgeDE9IjE2IiB4Mj0iOCIgeTE9IjEzIiB5Mj0iMTMiLz48bGluZSB4MT0iMTYiIHgyPSI4IiB5MT0iMTciIHkyPSIxNyIvPjxsaW5lIHgxPSIxMCIgeDI9IjgiIHkxPSI5IiB5Mj0iOSIvPjwvc3ZnPg%3D%3D" alt="RUNTIME">
   <hr>
 </div>
 
 <div align="center">
-  <img src="assets/svganimations.clip.gif" alt="SVG Animations Demo" width="640">
+  <img src="assets/videos/preview.gif" alt="SVG Animations Demo" width="640">
 </div>
 
 <div align="center">
@@ -34,16 +33,16 @@ An interactive environment for Obsidian. It features a curated gallery of pre-bu
 
 ---
 
-## ✨ Features
+## Features
 
-*   🎨 **Interactive Icon Gallery**: Displays a grid of animated SVG vector icons that trigger viewport-lazy line-drawing drawing scripts. Loops continuously on hover and offers overlay focus views.
-*   💻 **Build Your Own SVG Editor**: Dedicated workspace split into SVG and CSS textareas to paste, live-test, and dynamically iterate vector creations in real-time.
-*   💾 **Self-Animating SVG Exports**: Downloads custom creations as a single, portable `.svg` file with the animation rules automatically embedded within its inner styles.
-*   🎥 **Client-Side WebM Renderer**: Renders vector-based timelines directly into `.webm` video files at high resolutions (720p, 1080p, 1440p) using Canvg ES module triggers.
+*   **Interactive Icon Gallery**: Displays a grid of animated SVG vector icons that trigger viewport-lazy line-drawing drawing scripts. Loops continuously on hover and offers overlay focus views.
+*   **Build Your Own SVG Editor**: Dedicated workspace split into SVG and CSS textareas to paste, live-test, and dynamically iterate vector creations in real-time.
+*   **Self-Animating SVG Exports**: Downloads custom creations as a single, portable `.svg` file with the animation rules automatically embedded within its inner styles.
+*   **Client-Side WebM Renderer**: Renders vector-based timelines directly into `.webm` video files at high resolutions (720p, 1080p, 1440p) using Canvg ES module triggers.
 
 ---
 
-## 🚀 Quick Start & Installation
+## Quick Start & Installation
 
 1. **Get the Code**:
    * **Option A**: Clone directly into Obsidian vault directory:
@@ -56,7 +55,7 @@ An interactive environment for Obsidian. It features a curated gallery of pre-bu
 
 ---
 
-## 📦 Directory Index & Components
+## Directory Index & Components
 
 The package exposes the following compiled files:
 
@@ -70,3 +69,17 @@ The package exposes the following compiled files:
 | **[METADATA.md](METADATA.md)** | Packaging manifest outlining indexing, target, and security configurations. |
 | **[CONTRIBUTION.md](CONTRIBUTION.md)** | Contributor architecture standards and local compilation guidelines. |
 | **[LICENSE.md](LICENSE.md)** | MIT open-source license. |
+
+---
+
+## Previews
+
+| Preview | Description |
+| :--- | :--- |
+| ![Preview 1](assets/image/preview_1.webp) | The interactive SVG animation gallery workspace with preview. |
+
+---
+
+## Contributors
+
+- beto.group

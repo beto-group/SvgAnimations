@@ -15,8 +15,8 @@ repository:
   - https://github.com/beto-group/SvgAnimations
 missing: []
 resources:
-  - assets/svg_animations.webp
-  - assets/svganimations.clip.gif
+  - assets/image/preview_1.webp
+  - assets/videos/preview.gif
 type: DatacoreComponent
 target: Datacore
 security:

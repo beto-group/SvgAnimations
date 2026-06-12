@@ -1,7 +1,5 @@
 const { useEffect, useRef, useState, useMemo } = dc;
 
-const { ICONS } = await dc.require(dc.resolvePath("SVG ANIMATIONS/src/data/icons.js"));
-
 // =================================================================================
 // THEME COLORS (DYNAMIC OBSIDIAN INTEGRATION)
 // =================================================================================
@@ -970,7 +968,7 @@ function LiveInputView() {
 // =================================================================================
 // --- Main App Component ---
 // =================================================================================
-function App() {
+function App({ ICONS, folderPath, dc }) {
     const instanceId = useRef(Math.random().toString(36).substr(2, 5)).current;
     const uniqueWrapperClass = `interactive-wrapper-${instanceId}`;
     const [view, setView] = useState('basic');
