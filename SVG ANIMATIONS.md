@@ -1,3 +1,4 @@
+
 ```datacorejsx
 const currentFilePath = dc.useCurrentPath();
 const folderPath = currentFilePath ? currentFilePath.substring(0, currentFilePath.lastIndexOf("/")) : "";

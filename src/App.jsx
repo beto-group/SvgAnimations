@@ -348,7 +348,7 @@ function IconTileView({ iconConfig, index, onTileClick, isEnlarged, onClose }) {
 // =================================================================================
 // --- BasicView Component ---
 // =================================================================================
-function BasicView({ onTileClick }) {
+function BasicView({ ICONS, onTileClick }) {
     const STYLES = {
         gridContainer: { 
             display: 'flex', 
@@ -1286,7 +1286,7 @@ function App({ ICONS, folderPath, dc }) {
 
                 <div style={STYLES.contentArea}>
                     {view === 'basic' ? (
-                        <BasicView onTileClick={setEnlargedIndex} />
+                        <BasicView ICONS={ICONS} onTileClick={setEnlargedIndex} />
                     ) : (
                         <LiveInputView />
                     )}
